@@ -1,2 +1,2 @@
 ## 📂 Jupyter Notebook  
-👉 [View the Full Analysis](Spotify_vs_AppleMusic_Analysis.ipynb)  
+👉 [View the Full Analysis](https://github.com/hypetony/spotify-and-apple/blob/main/Untitled.ipynb)  
